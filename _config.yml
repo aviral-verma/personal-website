@@ -27,21 +27,21 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: aviraliitk
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: aviral_verma_official
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: aviraliitk
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: http://aviral-verma.github.io/portfolio
   # youtube: your_username
 
 topics:
