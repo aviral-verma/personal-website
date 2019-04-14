@@ -1,4 +1,4 @@
-{% include header.html %}
+{% include header.html %} 
 
 {% if site.layout == 'stacked' %}
   <div class="container-lg py-6 p-responsive text-center">
@@ -10,6 +10,10 @@
 
     <div class="my-6">
       {% include projects.html %}
+    </div>
+
+    <div class="my-6">
+      {% include resume.html %}
     </div>
 
     {% if site.topics %}
