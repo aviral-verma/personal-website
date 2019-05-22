@@ -21,12 +21,12 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 15
   exclude:
     forks: false
     projects:
-    # - repo-name
-
+     - first-contributions
+     
 social_media:
   # behance: your_username
   # dribbble: your_username
@@ -35,13 +35,13 @@ social_media:
   instagram: aviral_verma_official
   # keybase: your_username
   linkedin: aviraliitk
-  # medium: your_username
+  medium: aviralverma
   # stackoverflow: your_user_id
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  website: http://aviral-verma.github.io/portfolio
+  website: http://www.aviralverma.com
   # youtube: your_username
 
 topics:
