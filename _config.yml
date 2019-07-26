@@ -1,5 +1,5 @@
 layout: sidebar
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 15
+  limit: 25
   exclude:
     forks: false
     projects:
@@ -30,6 +30,7 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
+  website: http://www.aviralverma.com
   facebook: aviraliitk
   # hackerrank: your_username
   instagram: aviral_verma_official
@@ -41,7 +42,6 @@ social_media:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  website: http://www.aviralverma.com
   # youtube: your_username
 
 topics:
