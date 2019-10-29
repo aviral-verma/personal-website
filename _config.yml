@@ -23,7 +23,7 @@ projects:
   #   - stars
   limit: 30
   exclude:
-    forks: false
+    forks: true
     projects:
      - first-contributions
      
@@ -32,7 +32,7 @@ social_media:
   # dribbble: your_username
   website: http://www.aviralverma.com
   facebook: aviraliitk
-  # hackerrank: your_username
+  hackerrank: aviraliitk
   instagram: aviral_verma_official
   # keybase: your_username
   linkedin: aviraliitk
